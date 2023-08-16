@@ -2,6 +2,7 @@ body {
     background-color: darkseagreen;
 }
 
+/* this makes adding colors to code easier */
 :root {
     --pale-sage: #BFF4CB;
     --sage: #84A98C;
